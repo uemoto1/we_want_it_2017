@@ -24,3 +24,5 @@ https://www.amazon.co.jp/gp/product/4873117585/ref=s9u_simh_gw_i1?ie=UTF8&pd_rd_
 - https://www.amazon.co.jp/gp/bestsellers/computers/2151962051
 
 
+## 消耗品
+-  プリンターの紙、トナー　
