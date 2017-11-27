@@ -2,7 +2,7 @@
 
 - ほしいもののリストと入手先のリンクを貼ってください
 
-## 書籍（確定済み）
+## 書籍
 
 - First-Principles Calculations In Real-Space Formalism: Electronic Configurations And Transport Properties Of Nanostructures
 Kikuji Hirose  (著),‎ Tomoya Ono (著),‎ Yoshitaka Fujimoto (著)
