@@ -10,9 +10,11 @@ Kikuji Hirose  (著),‎ Tomoya Ono (著),‎ Yoshitaka Fujimoto (著)
 
 
 
-## 備品
+## 備品（選定中）
 
 ### バックアップ用SSD
-- https://www.amazon.co.jp/gp/bestsellers/computers/2151962051
+- 下記のものからどれか、（https://www.amazon.co.jp/gp/bestsellers/computers/2151962051）
 
+- BUFFALO 耐振動・耐衝撃 省電力設計 USB3.1(Gen1)対応 小型ポータブルSSD 480GB ブラック SSD-PL480U3-BK/N
+https://www.amazon.co.jp/BUFFALO-耐振動・耐衝撃-USB3-1-小型ポータブルSSD-SSD-PL480U3-BK/dp/B074DZHSG4/ref=zg_bs_2151962051_1?_encoding=UTF8&psc=1&refRID=H0ST40CFBEXYDE3NR69E
 
