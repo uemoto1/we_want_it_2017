@@ -24,6 +24,17 @@ http://amzn.asia/4KlBcU2
 斎藤 康毅  (著)
 http://amzn.asia/bXFOzft
 
+- 固体物理学〈上〉 (物理学叢書) 単行本 – 2004/6
+G. グロッソ (著), G.P. パラビチニ (著)
+http://amzn.to/2AaJQh2
+
+- 固体物理学〈中〉 (物理学叢書) 単行本 – 2004/12
+G. グロッソ  (著), G.P. パラビチニ  (著)
+http://amzn.to/2hXkiJQ
+
+- 固体物理学〈下〉 (物理学叢書) 単行本 – 2005/7
+G. グロッソ  (著), G.P. パラビチニ  (著)
+http://amzn.to/2Ac9RMR
 
 ## 備品
 
@@ -31,6 +42,9 @@ http://amzn.asia/bXFOzft
 
 - Samsung 外付けSSD 250GB T5シリーズ USB3.1 Gen2対応 ハードウェア暗号化 パスワード保護 V-NAND搭載 MU-PA250B/IT
 http://amzn.asia/i54Y5wj
+
+- BUFFALO 耐振動・耐衝撃 省電力設計 USB3.1(Gen1)対応 小型ポータブルSSD 480GB ブラック SSD-PL480U3-BK/N
+http://amzn.to/2AcaCFM
 
 ## 消耗品
 -  プリンターの紙、トナー　
