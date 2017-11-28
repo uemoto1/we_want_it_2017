@@ -28,8 +28,9 @@ http://amzn.asia/bXFOzft
 ## 備品
 
 ### バックアップ用SSD
-- https://www.amazon.co.jp/gp/bestsellers/computers/2151962051
 
+- Samsung 外付けSSD 250GB T5シリーズ USB3.1 Gen2対応 ハードウェア暗号化 パスワード保護 V-NAND搭載 MU-PA250B/IT
+http://amzn.asia/i54Y5wj
 
 ## 消耗品
 -  プリンターの紙、トナー　
