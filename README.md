@@ -36,6 +36,11 @@ http://amzn.to/2hXkiJQ
 G. グロッソ  (著), G.P. パラビチニ  (著)
 http://amzn.to/2Ac9RMR
 
+- 並列プログラミング入門: サンプルプログラムで学ぶOpenMPとOpenACC 単行本 – 2015/5/29
+片桐 孝洋  (著)
+http://amzn.asia/6YzZH1X
+
+
 ## 備品
 
 ### バックアップ用SSD
