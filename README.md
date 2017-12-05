@@ -69,7 +69,7 @@ https://www.amazon.co.jp/%E3%82%B3%E3%82%AF%E3%83%A8-%E7%B7%91%E8%89%B2%E3%83%AC
 ## 消耗品
 -  プリンターの紙、トナー　
 
--  TransMemory-EX™ USB3.0/USB Type-C デュアルフラッシュメモリUSBメモリー x1
+-  TransMemory-EX™ USB3.0/USB Type-C デュアルフラッシュメモリ x1  
 http://www.toshiba-personalstorage.net/product/usb/uda3a/index_j.htm
 
 -  出張時用インターネット接続（プリペイド型SIM）x1?（詳細は後から載せます：AY）
