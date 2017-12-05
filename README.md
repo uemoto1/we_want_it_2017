@@ -52,11 +52,19 @@ http://amzn.asia/i54Y5wj
 http://amzn.to/2AcaCFM
 
 - デスクパネルヒーター x3 （詳細は後から載せます：AY）
+- プレゼン用PC連動型レーザーポインタ（合計２本）
+例えば：（要確認、特にMac対応かどうか.割引が適用されるか）
+
+Canon グリーンレーザーポインター PR-10GC タイマー・ワイヤレスPPT操作機能付 
+https://www.amazon.co.jp/%E3%82%AD%E3%83%A4%E3%83%8E%E3%83%B3-PR10-GC-CP-%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC-%E3%82%BF%E3%82%A4%E3%83%9E%E3%83%BC%E3%83%BB%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9PPT%E6%93%8D%E4%BD%9C%E6%A9%9F%E8%83%BD%E4%BB%98/dp/B012BZT4GC/ref=sr_1_24?ie=UTF8&qid=1512440768&sr=8-24&keywords=%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%82%BF%E3%83%BC
+
+コクヨ 緑色レーザーポインター ポインタ形状変化 UD形状 ELA-GU94N
+https://www.amazon.co.jp/%E3%82%B3%E3%82%AF%E3%83%A8-%E7%B7%91%E8%89%B2%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC-%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E5%BD%A2%E7%8A%B6%E5%A4%89%E5%8C%96-UD%E5%BD%A2%E7%8A%B6-ELA-GU94N/dp/B001CU9OEK/ref=sr_1_cc_3?s=aps&ie=UTF8&qid=1512441435&sr=1-3-catcorr&keywords=%E3%80%80%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%80%80%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3
+
 
 ## 消耗品
 -  プリンターの紙、トナー　
 -  USBメモリー x1 (詳細は後から載せます：AY)
--  プレゼンテーション用ページ切り替え機能付ポインターx2（詳細は後から載せます：AY）
--  出張時用インターネット接続（プリペイド型、USB）x1?（詳細は後から載せます：AY）
+-  出張時用インターネット接続（プリペイド型SIM）x1?（詳細は後から載せます：AY）
 -  kindle 電子ペーパー x? （詳細は後から載せます：AY）
 
