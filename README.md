@@ -40,6 +40,8 @@ http://amzn.to/2Ac9RMR
 片桐 孝洋  (著)
 http://amzn.asia/6YzZH1X
 
+- 何か定番の結晶系の素材・材料のデータベース本・DVD（矢花先生に聞く）
+
 
 ## 備品
 
