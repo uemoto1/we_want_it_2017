@@ -50,8 +50,8 @@ http://amzn.asia/6YzZH1X
 - ~~Samsung 外付けSSD 250GB T5シリーズ USB3.1 Gen2対応 ハードウェア暗号化 パスワード保護 V-NAND搭載 MU-PA250B/IT~~ 
 http://amzn.asia/i54Y5wj
 
-- BUFFALO 耐振動・耐衝撃 省電力設計 USB3.1(Gen1)対応 小型ポータブルSSD 480GB ブラック SSD-PL480U3-BK/N
-http://amzn.to/2AcaCFM
+- BUFFALO 耐振動・耐衝撃 省電力設計 USB3.1(Gen1)対応 小型ポータブルSSD 960GB ブラック SSD-PL960U3-BK/N
+https://www.amazon.co.jp/dp/B076FVVHCY/ref=sspa_dk_detail_1?th=1
 
 - デスクパネルヒーター x3 （各自選んで下さい）
 
