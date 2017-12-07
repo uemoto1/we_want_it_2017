@@ -69,16 +69,23 @@ https://www.amazon.co.jp/%E3%82%B3%E3%82%AF%E3%83%A8-%E7%B7%91%E8%89%B2%E3%83%AC
 
 
 ## 消耗品
--  プリンターの紙、トナー　
 
--  TransMemory-EX™ USB3.0/USB Type-C デュアルフラッシュメモリ x1 (AY)  
+###  プリンターの紙、トナー　
+
+###  TransMemory-EX™ USB3.0/USB Type-C デュアルフラッシュメモリ x1 (AY)  
 http://www.toshiba-personalstorage.net/product/usb/uda3a/index_j.htm
 
--  出張時用インターネット接続（b-mobile: プリペイド型SIM(5GBx12ヶ月) + wifiルーター）x1  
+### 出張時用インターネット接続
+
+- 日本でも海外でも使えるwifiルーター。１年契約があるがプリペイドではなさそう。校費で１年分買えるか要確認　　
+http://jp.skyberry.me/sbpt/?gclid=CjwKCAiAx57RBRBkEiwA8yZdUKoqdGJ_T7YZDb0x9J8vax7-i6HPobO_KZUB1HZwBxzd3BEu7c50cBoCgVkQAvD_BwE
+
+- （上のがダメそうな時の候補）国内だけだがプリペイド型（b-mobile: プリペイド型SIM(5GBx12ヶ月) + wifiルーター）x1  
 http://www.bmobile.ne.jp/wifi3/index.html
 
--  PCキーボード(快適・早打ち対応) x1 (AY)   
+
+###  PCキーボード(快適・早打ち対応) x1 (AY)   
 https://www.logitechg.com/en-us/product/rgb-tenkeyless-gaming-keyboard-g410
 
--  kindle 電子ペーパー x? （詳細は後から載せます：AY）
+###  kindle 電子ペーパー x? （詳細は後から載せます：AY）
 
