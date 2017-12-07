@@ -45,7 +45,7 @@ http://amzn.asia/6YzZH1X
 
 ## 備品
 
-### バックアップ用SSD
+### バックアップ用SSD x3 
 
 - ~~Samsung 外付けSSD 250GB T5シリーズ USB3.1 Gen2対応 ハードウェア暗号化 パスワード保護 V-NAND搭載 MU-PA250B/IT~~ 
 http://amzn.asia/i54Y5wj
