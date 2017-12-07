@@ -53,7 +53,7 @@ http://amzn.asia/i54Y5wj
 - BUFFALO 耐振動・耐衝撃 省電力設計 USB3.1(Gen1)対応 小型ポータブルSSD 960GB ブラック SSD-PL960U3-BK/N
 https://www.amazon.co.jp/dp/B076FVVHCY/ref=sspa_dk_detail_1?th=1
 
-### デスクパネルヒーター x3 
+### デスクパネルヒーター x3 (AY,SY,MU)  
 
 - パナソニック デスクヒーター 高48×幅45×奥30cm ベージュ DC-PKD3-C
 https://www.amazon.co.jp/%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-%E3%83%87%E3%82%B9%E3%82%AF%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC-%E9%AB%9848%C3%97%E5%B9%8545%C3%97%E5%A5%A530cm-%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5-DC-PKD3-C/dp/B002MWPL9O/ref=sr_1_1?ie=UTF8&qid=1512441952&sr=8-1&keywords=%E3%83%87%E3%82%B9%E3%82%AF%E3%83%91%E3%83%8D%E3%83%AB%E3%83%92%E3%83%BC%E3%82%BF%E3%83%BC&refinements=p_89%3A%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%28Panasonic%29%7C%E3%82%A2%E3%82%A4%E3%83%AA%E3%82%B9%E3%82%AA%E3%83%BC%E3%83%A4%E3%83%9E%28IRIS+OHYAMA%29%7C%E3%82%B5%E3%83%B3%E3%83%AF%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88%7CSKB+%28%E3%82%B5%E3%82%AB%E3%83%99%29%7C%E3%83%95%E3%82%B8%E3%82%AB
@@ -71,11 +71,14 @@ https://www.amazon.co.jp/%E3%82%B3%E3%82%AF%E3%83%A8-%E7%B7%91%E8%89%B2%E3%83%AC
 ## 消耗品
 -  プリンターの紙、トナー　
 
--  TransMemory-EX™ USB3.0/USB Type-C デュアルフラッシュメモリ x1  
+-  TransMemory-EX™ USB3.0/USB Type-C デュアルフラッシュメモリ x1 (AY)  
 http://www.toshiba-personalstorage.net/product/usb/uda3a/index_j.htm
 
--  出張時用インターネット接続（b-mobile: プリペイド型SIM(5GBx12ヶ月) + wifiルーター）x1
+-  出張時用インターネット接続（b-mobile: プリペイド型SIM(5GBx12ヶ月) + wifiルーター）x1  
 http://www.bmobile.ne.jp/wifi3/index.html
+
+-  PCキーボード(快適・早打ち対応) x1 (AY)   
+https://www.logitechg.com/en-us/product/rgb-tenkeyless-gaming-keyboard-g410
 
 -  kindle 電子ペーパー x? （詳細は後から載せます：AY）
 
