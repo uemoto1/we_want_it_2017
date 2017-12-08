@@ -89,3 +89,6 @@ https://www.logitechg.com/en-us/product/rgb-tenkeyless-gaming-keyboard-g410
 
 ###  kindle 電子ペーパー x? （詳細は後から載せます：AY）
 
+###　その他デスク用品
+- actto BST-02 ブックスタンド(OEM品番:EDH-004)
+http://amzn.asia/8Wb5fnU
