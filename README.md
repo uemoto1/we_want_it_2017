@@ -67,6 +67,9 @@ https://www.amazon.co.jp/%E3%82%AD%E3%83%A4%E3%83%8E%E3%83%B3-PR10-GC-CP-%E3%82%
 - コクヨ 緑色レーザーポインター ポインタ形状変化 UD形状 ELA-GU94N
 https://www.amazon.co.jp/%E3%82%B3%E3%82%AF%E3%83%A8-%E7%B7%91%E8%89%B2%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC-%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E5%BD%A2%E7%8A%B6%E5%A4%89%E5%8C%96-UD%E5%BD%A2%E7%8A%B6-ELA-GU94N/dp/B001CU9OEK/ref=sr_1_cc_3?s=aps&ie=UTF8&qid=1512441435&sr=1-3-catcorr&keywords=%E3%80%80%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF%E3%80%80%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3
 
+### その他デスク用品
+- actto BST-02 ブックスタンド(OEM品番:EDH-004)
+http://amzn.asia/8Wb5fnU
 
 ## 消耗品
 
@@ -89,6 +92,4 @@ https://www.logitechg.com/en-us/product/rgb-tenkeyless-gaming-keyboard-g410
 
 ###  kindle 電子ペーパー x? （詳細は後から載せます：AY）
 
-###　その他デスク用品
-- actto BST-02 ブックスタンド(OEM品番:EDH-004)
-http://amzn.asia/8Wb5fnU
+
