@@ -92,4 +92,7 @@ https://www.logitechg.com/en-us/product/rgb-tenkeyless-gaming-keyboard-g410
 
 ###  kindle 電子ペーパー x? （詳細は後から載せます：AY）
 
+### ウォーターサーバー、または水道水フィルター (AY)
+
+
 
