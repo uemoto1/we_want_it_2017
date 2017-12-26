@@ -94,5 +94,7 @@ https://www.logitechg.com/en-us/product/rgb-tenkeyless-gaming-keyboard-g410
 
 ### ウォーターサーバー、または水道水フィルター (AY)
 
+### パソコンお掃除グッズ：エアダスター（５−６本くらい）など
+
 
 
