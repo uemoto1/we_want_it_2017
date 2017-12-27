@@ -77,7 +77,8 @@ http://amzn.asia/8Wb5fnU
 
 ## 消耗品
 
-###  プリンターの紙、トナー　
+###  プリンターの紙(通常の紙)、トナー　
+（特別な意味はなく、単に必ず必要になるからもし他に買いたいものがない場合はこの機会に買っておくくらいの意味で）
 
 ###  TransMemory-EX™ USB3.0/USB Type-C デュアルフラッシュメモリ x1 (AY)  
 http://www.toshiba-personalstorage.net/product/usb/uda3a/index_j.htm
@@ -92,10 +93,11 @@ http://www.bmobile.ne.jp/wifi3/index.html
 
 
 ###  PCキーボード(快適・正確・早打ち対応) x1 (AY)   
-%% https://www.logitechg.com/en-us/product/rgb-tenkeyless-gaming-keyboard-g410 %%
+~~https://www.logitechg.com/en-us/product/rgb-tenkeyless-gaming-keyboard-g410
+
 https://www.amazon.co.jp/dp/B0053U3YBE?tag=s02a3-22&th=1 (FILCO:日本製)
 
-###  kindle 電子ペーパー x? （詳細は後から載せます：AY）
+~~###  kindle 電子ペーパー x? （詳細は後から載せます：AY）
 
 ### ウォーターサーバー、または水道水フィルター (AY)
 
