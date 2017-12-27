@@ -42,6 +42,10 @@ http://amzn.asia/6YzZH1X
 
 - 何か定番の結晶系の素材・材料のデータベース本・DVD（矢花先生に聞く）
 
+- Time-Dependent Density-Functional Theory: Concepts and Applications (Oxford Graduate Texts)
+Carsten A. Ullrich (著)
+http://urx3.nu/HL5Z
+
 
 ## 備品
 
