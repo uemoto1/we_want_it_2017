@@ -91,8 +91,9 @@ http://jp.skyberry.me/sbpt/?gclid=CjwKCAiAx57RBRBkEiwA8yZdUKoqdGJ_T7YZDb0x9J8vax
 http://www.bmobile.ne.jp/wifi3/index.html
 
 
-###  PCキーボード(快適・早打ち対応) x1 (AY)   
-https://www.logitechg.com/en-us/product/rgb-tenkeyless-gaming-keyboard-g410
+###  PCキーボード(快適・正確・早打ち対応) x1 (AY)   
+%% https://www.logitechg.com/en-us/product/rgb-tenkeyless-gaming-keyboard-g410 %%
+https://www.amazon.co.jp/dp/B0053U3YBE?tag=s02a3-22&th=1 (FILCO:日本製)
 
 ###  kindle 電子ペーパー x? （詳細は後から載せます：AY）
 
