@@ -12,6 +12,16 @@ http://amzn.asia/6mF7TPQ
 Richard M. Martin  (著)
 http://amzn.asia/bQm5tJL
 
+- 物質の電子状態 上 (SPRINGER UNIVERSITY TEXTBOOKS) 単行本 – 2012/8/1
+R.M.マーチン (著),‎ 寺倉 清之 (翻訳)
+http://urx.mobi/HQOf
+(AY：外部資金で:上の本「Electronic Structure:・・」の和訳なので同じ予算で買わないほうが吉)
+
+- 物質の電子状態〈下〉 (SPRINGER UNIVERSITY TEXTBOOKS) 単行本 – 2012/11/1
+R.M. マーチン (著),‎ Richard M. Martin (原著),‎ 寺倉 清之 (翻訳),‎ 寺倉 郁子 (翻訳) 
+http://urx.mobi/HQOi
+(AY：上巻と同様)
+
 - トポロジカル絶縁体入門 (KS物理専門書) 単行本（ソフトカバー） – 2014/7/10
 安藤 陽一 (著)
 http://amzn.asia/fEJWnc6
@@ -43,7 +53,7 @@ http://amzn.asia/6YzZH1X
 - 何か定番の結晶系の素材・材料のデータベース本・DVD（矢花先生に聞く）
 
 - Time-Dependent Density-Functional Theory: Concepts and Applications (Oxford Graduate Texts)
-Carsten A. Ullrich (著)
+Carsten A. Ullrich (著) x2 (内一冊はAY：別々の予算からそれぞれ買う)
 http://urx3.nu/HL5Z
 
 
